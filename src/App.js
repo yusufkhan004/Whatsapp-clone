@@ -1,11 +1,15 @@
-
+import React from "react";
 import './App.css';
 
 function App() {
   return (
-    <div>
+    <div className="app">
       <h1>hello world</h1>
-    <p>another change</p>
+      <p>changing he bracnch</p>
+      <p>change in master</p>    
+
+    {/* SideBar */}
+    {/* Chat component */}
     </div>
   );
 }

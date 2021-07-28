@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "whatsapp",
+=======
+  "name": "whp",
+>>>>>>> 92e1f4976a6c2b0d11bec5412826f84605173da7
   "version": "0.1.0",
   "private": true,
   "dependencies": {
